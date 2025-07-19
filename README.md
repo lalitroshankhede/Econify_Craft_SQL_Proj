@@ -97,7 +97,7 @@ Time-of-Day Analysis: Sales by morning, afternoon, and evening shifts
 The Econify_Craft project provides a real-world scenario for practicing SQL and data analysis. From creating a schema and cleaning raw data to answering impactful business questions, this project demonstrates how SQL can drive decision-making in retail.
 
 🧑‍💻 Author
-Zero Analyst
+Lalit Roshankhede
 📧 Email: lalitroshankhede99@gmail.com
 
 ⭐️ Show Your Support
