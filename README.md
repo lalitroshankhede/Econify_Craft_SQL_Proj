@@ -23,28 +23,6 @@ This project is perfect for aspiring data analysts who want practical experience
 - Perform SQL-based exploratory data analysis.
 - Answer real-world business questions using SQL queries.
 
----
-
-## 🗂️ Folder Structure
-
-Econify_Craft/
-│
-├── data/
-│ └── econify_dataset.csv
-│
-├── sql/
-│ ├── 01_create_database.sql
-│ ├── 02_data_cleaning.sql
-│ └── 03_business_analysis.sql
-│
-├── outputs/
-│ └── insights_summary.txt
-│
-└── README.md
-
-
----
-
 ## 🧰 Tools & Technologies
 
 - **Database**: MySQL
